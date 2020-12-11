@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<buildpath>
+	<buildpathentry kind="src" path=""/>
+	<buildpathentry kind="con" path="org.eclipse.php.core.LANGUAGE"/>
+	<buildpathentry external="true" kind="lib" path="/Users/ltaylor/Local Sites/jazzuniversity/app/public/wp-content"/>
+	<buildpathentry external="true" kind="lib" path="/Users/ltaylor/Local Sites/jazzuniversity/app/public/wp-includes"/>
+</buildpath>
